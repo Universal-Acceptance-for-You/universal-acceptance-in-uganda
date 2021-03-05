@@ -1,5 +1,5 @@
 # Code of Conduct
-This code of conduct outlines our expectations for participants within the project. We are committed to ensuring that all contributors are welcome and comfortable as they work on this project. 
+This code of conduct outlines our expectations for participants within the project. We are committed to ensuring that all contributors feel welcome and comfortable as they contribute to this project and participate in our events. 
 
 While working on the project, please:
 > * **Be supportive and inclusive.**
