@@ -52,7 +52,7 @@ This repository is maintained by a team of technologists, researchers, tech poli
 
 **The team**
 * Sarah Kiden is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her research, co-designing Internet of Things (IoT) with communities, is one of the topics under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
-* [Lillian Achom](lillianachom.com/)
+* [Lillian Achom](lillianachom.com/) believes that an ICT-empowered society is an opportunity for employment, wealth creation and therefore economic growth and better livelihoods. Lillian’s favorite is teaching women and girls in rural communities the benefits of internet & how to use smart phones and, mentoring young girls to take up careers in ICT. 
 * Esther Patricia Akello
 * Mutegeki Cliff Agaba
 
