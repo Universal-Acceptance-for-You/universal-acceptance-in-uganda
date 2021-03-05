@@ -1,12 +1,12 @@
 # Universal Acceptance Project in Uganda
-Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
-
 <p><html>
   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/ua-logo%402.png"
-    width=150
+    width=200
   </img>
 </html>
   <br><i>Image source: uasg.tech</i>
+  
+Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 
 * [Aims and Objectives](#aims-and-objectives)
 * [Background](#background)
