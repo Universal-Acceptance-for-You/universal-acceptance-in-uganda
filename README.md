@@ -30,12 +30,13 @@ Please take a look our [Open Canvas](https://github.com/Universal-Acceptance-for
 You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/resources). 
 
 Other resources:
-* [Project Tasks](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true)
-* [Activities and Events](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/Activities%20and%20Events)
-* [Project Code of Conduct](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/CODE_OF_CONDUCT.md)
-* [Project maintenance](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/MAINTENANCE.md)
+* [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
+* [Activities and Events](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/activities-and-events)
+* * [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) 
+* [Project Code of Conduct](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/CODE_OF_CONDUCT.md)
+* [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
 
-The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/MsKiden/universal-acceptance-project-uganda/edit/main/LICENSE).
+The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/LICENSE).
 
 ## About Us and Contacts
 This repository is maintained by a team of technologists, researchers, tech policy experts, activists, UA enthusists, among others, working in organisations including: 
