@@ -1,6 +1,13 @@
 # Universal Acceptance Project in Uganda
 Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 
+<p><html>
+  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/ua-logo%402.png"
+    width=200
+  </img>
+</html>
+  <br><i>Image source: uasg.tech</i>
+
 * [Aims and Objectives](#aims-and-objectives)
 * [Background](#background)
 * [Why Univeral Acceptance](#why-universal-acceptance)
@@ -32,7 +39,7 @@ You are invited to contribute to this collection of toolkit, reports, papers and
 Other resources:
 * [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/activities-and-events)
-* * [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) 
+  * [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) 
 * [Project Code of Conduct](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/CODE_OF_CONDUCT.md)
 * [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
 
@@ -45,9 +52,9 @@ This repository is maintained by a team of technologists, researchers, tech poli
 
 **The team**
 * [Sarah Kiden](https://www.linkedin.com/in/sarah-kiden-2942b029/) is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her doctoral research, co-designing Internet of Things (IoT) with communities, is one of the topics under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
-* [Lillian Achom](lillianachom.com/)
-* Esther Patricia Akello
-* Mutegeki Cliff Agaba
+* [Lillian Achom](lillianachom.com/) is
+* Esther Patricia Akello is a technologist, who is passionate about application development and finding solutions for socio economic problems. She is an entrepreneur, expert in managing ICT Projects and start-ups, and one of the founding Partners of AccessPlus an organization focused on promoting STEM careers for girls and extending ICT services to underserved communities. She holds an MSc in Information Systems and BSc in Computer Science.
+* Mutegeki Cliff Agaba is a technology enthusiast with experience in computer networking. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, with  where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications working group under the umbrella of ICANN.
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
