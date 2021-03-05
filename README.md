@@ -53,8 +53,8 @@ This repository is maintained by a team of technologists, researchers, tech poli
 **The team**
 * Sarah Kiden is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her research, co-designing Internet of Things (IoT) with communities, is one of the topics under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
 * [Lillian Achom](lillianachom.com/)
-* Esther Patricia Akello
-* Mutegeki Cliff Agaba
+* Esther Patricia Akello is a technologist, who is passionate about application development and finding solutions for socio economic problems. She is an entrepreneur, expert in managing ICT Projects and start-ups, and one of the founding Partners of AccessPlus an organization focused on promoting STEM careers for girls and extending ICT services to underserved communities. She holds an MSc in Information Systems and BSc in Computer Science.
+* Mutegeki Cliff Agaba is a technology enthusiast with experience in computer networking. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, with  where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications working group under the umbrella of ICANN.
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
