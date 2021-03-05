@@ -44,7 +44,7 @@ This repository is maintained by a team of technologists, researchers, tech poli
 [Access Plus](https://accesspluss.org/) is a Ugandan based organisation that aims at improving livelihoods by promoting inclusive access to and use of Information and Communication Technologies (ICTs) and the Internet to contribute to solving economic barriers. We do this by improving access to knowledge, information exchange and building technical capacity to use these technologies.  
 
 **The team**
-* Sarah Kiden is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her research, co-designing Internet of Things (IoT) with communities, is one of the topics under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
+* [Sarah Kiden](https://www.linkedin.com/in/sarah-kiden-2942b029/) is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her doctoral research, co-designing Internet of Things (IoT) with communities, is one of the topics under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
 * [Lillian Achom](lillianachom.com/)
 * Esther Patricia Akello
 * Mutegeki Cliff Agaba
