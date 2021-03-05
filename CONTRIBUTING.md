@@ -2,7 +2,7 @@
 
 Thank you once again for your interest in joining this project! 👏🏾 🎊 🎉
 
-The [UA in Uganda Project](https://github.com/MsKiden/universal-acceptance-project-uganda) aims to develop a toolkit that can support these efforts and write a policy brief that will be used as an advocacy tool to inform policy. We hope that this can influence national and industry digital inclusion projects to promote local content and multiple language scripts. 
+The [UA in Uganda Project](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda) aims to develop a toolkit that can support these efforts and write a policy brief that will be used as an advocacy tool to inform policy. We hope that this can influence national and industry digital inclusion projects to promote local content and multiple language scripts. 
 
 This document (CONTRIBUTING.md) is a set of guidelines for contributing to the project. These are guidelines, not rules, to make it easy for anyone to get involved.
 
@@ -14,10 +14,10 @@ This document (CONTRIBUTING.md) is a set of guidelines for contributing to the p
 * [Acknowledgements](#acknowledgements)
 
 ## Participant guidelines
-Please take a look at the project [Code of Conduct](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/CODE_OF_CONDUCT.md), which outlines our expectations for participants within the project. 
+Please take a look at the project [Code of Conduct](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/CODE_OF_CONDUCT.md), which outlines our expectations for participants within the project. 
 
 ## What we are working on
-To get started, take a look at the issues in our [milestones](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true). Find an interesting issue to contribute to. 
+To get started, take a look at the issues in our [milestones](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1). Find an interesting issue to contribute to. 
 
 Since many people use the Internet, anyone can be part of the project. 
 + Governments, policy and decision makers
@@ -39,7 +39,7 @@ Once you have identified an issue that you would like to contribute to, please f
 New to open source? Check out this *free* series: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). 
 
 ## How to report bugs
-Please report bugs and lookout for any issues that can cause problems for the project. Bugs, requests and questions can be reported in our [issue tracker](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true). We shall be updating this document with details about reporting bugs. 
+Please report bugs and lookout for any issues that can cause problems for the project. Bugs, requests and questions can be reported in our [issue tracker](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1). We shall be updating this document with details about reporting bugs. 
 
 ## Communication channels
 Please feel free to always suggest new ideas, edits, project improvements, etc. to project(dash)team(at)accesspluss(dot)org. 
@@ -47,3 +47,7 @@ Please feel free to always suggest new ideas, edits, project improvements, etc. 
 ## Acknowledgements
 
 Much appreciation goes to the following people for contributing:
++ Sarah Kiden
++ Lillian Achom
++ Esther Patricia Akello
++ Mutegeki Cliff Agaba
