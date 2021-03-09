@@ -46,9 +46,19 @@ Other resources:
 
 The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/LICENSE).
 
-## Partners
+## Partners and Supporters
 We believe that Universal Acceptance implementation is a collective effort. We are grateful to partners and supporters. 
-
+<p><html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
+    width=70
+  </img>
+</html>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <html>
+ <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/MoICT-logo_bigger-1.png"
+    width=300
+  </img>
+</html>
 
 ## About Us and Contacts
 This repository is maintained by a team of technologists, researchers, tech policy experts, activists, UA enthusists, among others, working in organisations including: 
