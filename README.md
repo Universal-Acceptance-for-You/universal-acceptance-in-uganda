@@ -50,13 +50,13 @@ The project is licensed under the MIT license for software/code related content 
 We believe that Universal Acceptance implementation is a collective effort. We are grateful to partners and supporters. 
 <p><html>
    <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
-    width=70
+    width=90
   </img>
 </html>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <html>
  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/MoICT-logo_bigger-1.png"
-    width=300
+    width=360
   </img>
 </html>
 
