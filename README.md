@@ -50,7 +50,7 @@ The project is licensed under the MIT license for software/code related content 
 We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to partners and supporters. 
 <p><html>
    <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
-    width=90
+    width=80
   </img>
 </html>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
