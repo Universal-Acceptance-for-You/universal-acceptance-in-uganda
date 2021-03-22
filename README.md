@@ -58,6 +58,9 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/MoICT-logo_bigger-1.png"
     width=360
   </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/NITA-U-logo.png"
+    width=150
+  </img>
 </html>
 
 ## About Us and Contacts
