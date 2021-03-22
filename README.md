@@ -53,7 +53,7 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
    <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
     width=80
   </img>
-</html><br>
+</html><br><br>
  
  **Partners and Sponsors**<br>
  <p><html>
