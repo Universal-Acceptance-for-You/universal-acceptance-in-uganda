@@ -49,7 +49,7 @@ The project is licensed under the MIT license for software/code related content 
 ## Partners and Supporters
 We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to our partners and supporters.<br>
 **Organisers**<br>
-<p><html>
+<html>
    <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
     width=80
   </img>
@@ -60,10 +60,9 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/MoICT-logo_bigger-1.png"
     width=360
       </img>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/NITA-U-logo.png"
-    width=150
-  </img>
+  </html>
+  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/NITA-U-logo.png" width=150 </img>
 </html>
 
 ## About Us and Contacts
