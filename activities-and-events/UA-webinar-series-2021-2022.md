@@ -1,9 +1,6 @@
-#### Activities and Events
-
+## Demystifying Universal Acceptance: What does a multilingual Internet look like? ##
 
 Tentative Agenda for Universal Acceptance Webinar Series
-
-**Title: Demystifying Universal Acceptance: What does a multilingual Internet look like?**
 
 Date(s) | Activities/Events | Output 
 ----- | -------- | ---- 
