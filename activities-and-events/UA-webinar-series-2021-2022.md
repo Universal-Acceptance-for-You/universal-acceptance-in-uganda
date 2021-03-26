@@ -2,6 +2,9 @@
 
 
 Tentative Agenda for Universal Acceptance Webinar Series
+
+**Title: Demystifying Universal Acceptance: What does a multilingual Internet look like?**
+
 Date(s) | Activities/Events | Output 
 ----- | -------- | ---- 
 July 2021 | <b>Webinar 1: Understanding Universal Acceptance </b> <br> <i>This session will define Universal Acceptance and focus on our readiness and why it matters.</i> <br> Panelists (TBC): <ul><li> Dr. Ajay Data, Universal Acceptance Steering Group (UASG) <li> Jonathan Zuck, At-Large Advisory Committee (ALAC) <li>Yaovi Atohoun, Internet Corporation for Assigned Names and Numbers (ICANN) <li>Mohamed El Bashir, ICANN </ul> Moderator: Internet Society Uganda Chapter representative <br> [Registration details to follow](URL) | <ul><li>Recording <li>Report</ul>  
