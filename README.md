@@ -40,7 +40,7 @@ You are invited to contribute to this collection of toolkit, reports, papers and
 Other resources:
 * [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/activities-and-events)
-  * [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) 
+  * We are planing a [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) titled "Demystifying Universal Acceptance: What does a multilingual Internet look like?" 
 * [Project Code of Conduct](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/CODE_OF_CONDUCT.md)
 * [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
 
