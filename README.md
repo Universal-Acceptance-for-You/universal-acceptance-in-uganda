@@ -2,8 +2,8 @@
 Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 
 <p><html>
-  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/ua-logo%402.png"
-    width=200
+  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ua-logo%402.png"
+    width=150
   </img>
 </html>
   <br><i>Image source: uasg.tech</i>
@@ -12,6 +12,7 @@ Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 * [Background](#background)
 * [Why Univeral Acceptance](#why-universal-acceptance)
 * [Resources and how you can contribute](#resources-and-how-you-can-contribute)
+* [Partners and Supporters](#partners-and-supporters)
 * [About Us and Contacts](#about-us-and-contacts)
 
 ## Aims and Objectives
@@ -32,18 +33,38 @@ According to the Universal Acceptance Steering Group (UASG) country readiness re
 There are over 40 languages spoken in Uganda and over 140 spoken in East and Central Africa. Language has been named as one of the barriers of connecting the unconnected yet it would give the world’s population an opportunity to access the Internet. Local language domain names can help to support the creation and access to local language content and email addresses. 
 
 ## Resources and how you can contribute
-Please take a look our [Open Canvas](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/Open%20Canvas%20-%20UA4You(Feb%202021).pdf) to give you an overview of the project. 
+Please take a look our [Open Canvas](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/OpenCanvas-UA4U-Feb2021.pdf) to give you an overview of the project. 
 
 You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/resources). 
 
 Other resources:
 * [Project Tasks](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/projects/1?add_cards_query=is%3Aopen)
 * [Activities and Events](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/tree/main/activities-and-events)
-  * [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) 
+  * We are planing a [UA webinar series 2021-2022](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md) titled "Demystifying Universal Acceptance: What does a multilingual Internet look like?" 
 * [Project Code of Conduct](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/CODE_OF_CONDUCT.md)
 * [Project maintenance](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/MAINTENANCE.md)
 
 The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/LICENSE).
+
+## Partners and Supporters
+We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to our partners and supporters.<br><br>
+**Organisers**<br>
+<p><html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/access-plus-logo-2.png"
+    width=80
+  </img>
+</html><br><br>
+ 
+ **Partners and Sponsors**<br>
+ <p><html>
+ <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/MoICT-logo_bigger-1.png"
+    width=360
+      </img>
+  </html>
+  &nbsp;&nbsp;&nbsp;
+  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=150 </img>
+</html>
 
 ## About Us and Contacts
 This repository is maintained by a team of technologists, researchers, tech policy experts, activists, UA enthusists, among others, working in organisations including: 
@@ -54,7 +75,10 @@ This repository is maintained by a team of technologists, researchers, tech poli
 * [Sarah Kiden](https://www.linkedin.com/in/sarah-kiden-2942b029/) is a public interest technologist and researcher, working at the intersection of technology, design and communities/neighourhoods. She is a Marie Curie Research Fellow on a joint doctoral programme between Northumbria University and Mozilla. She advocates for technologies and the Internet for all.
 * [Lillian Achom](lillianachom.com/) believes that an ICT-empowered society is an opportunity for employment, wealth creation and therefore economic growth and better livelihoods. Lillian’s favorite is teaching women and girls in rural communities the benefits of internet & how to use smart phones and, mentoring young girls to take up careers in ICT.  
 * [Esther Patricia Akello](https://www.linkedin.com/in/patricia-akello-0b76935b/?originalSubdomain=ug) is a technologist, who is passionate about application development and finding solutions for socio economic problems. She is an entrepreneur, expert in managing ICT Projects and start-ups, and one of the founding Partners of AccessPlus an organization focused on promoting STEM careers for girls and extending ICT services to underserved communities. She holds an MSc in Information Systems and BSc in Computer Science.
-* [Mutegeki Cliff Agaba](https://mutegekicliff.com/) is a technology enthusiast with experience in computer networking. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, with  where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications working group under the umbrella of ICANN.
+* [Mutegeki Cliff Agaba](https://mutegekicliff.com/) is a technology enthusiast with experience in computer networking. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications Working Group under the umbrella of ICANN.
+
+-------------
+TL;DR <br>Check out our [zine here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf). 
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
