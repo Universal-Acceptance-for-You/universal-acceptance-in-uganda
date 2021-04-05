@@ -2,8 +2,8 @@
 Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 
 <p><html>
-  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/ua-logo%402.png"
-    width=200
+  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ua-logo%402.png"
+    width=150
   </img>
 </html>
   <br><i>Image source: uasg.tech</i>
@@ -50,20 +50,20 @@ The project is licensed under the MIT license for software/code related content 
 We believe that Universal Acceptance implementation requires a multistakeholder effort. We are grateful to our partners and supporters.<br><br>
 **Organisers**<br>
 <p><html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/access-plus-logo-2.png"
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/access-plus-logo-2.png"
     width=80
   </img>
 </html><br><br>
  
  **Partners and Sponsors**<br>
  <p><html>
- <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/MoICT-logo_bigger-1.png"
+ <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/MoICT-logo_bigger-1.png"
     width=360
       </img>
   </html>
   &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/images/NITA-U-logo.png" width=150 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=150 </img>
 </html>
 
 ## About Us and Contacts
