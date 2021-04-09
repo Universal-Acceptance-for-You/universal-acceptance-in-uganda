@@ -2,7 +2,7 @@
 
 Tentative Agenda for Universal Acceptance Webinar Series
 
-Date(s) | Activities/Events | Moderator(s)/Lead(s) | Output 
+Date(s) | Activities/Events | Moderator/Lead(s) | Output 
 ----- | -------- | ------ | ----- 
 29 July 2021 | <b>Webinar 1: Understanding Universal Acceptance </b> <br> <i>This session will define Universal Acceptance and focus on our readiness and why it matters.</i> <br><br> Panelists (TBC): <ul><li> Dr. Ajay Data, Universal Acceptance Steering Group (UASG) <li> Jonathan Zuck, At-Large Advisory Committee (ALAC) <li>Yaovi Atohoun, Internet Corporation for Assigned Names and Numbers (ICANN) <li> Maria Kolesnikova / Chair, Communications Working Group, UASG </ul> <br> [Registration details to follow](URL) | Moderator: Sarah Kiden <br><br> Lead: Lillian Achom, AccessPlus | <ul><li>Recording <li>Report</ul>  
 26 August 2021 | <b> Webinar 2: Universal Acceptance initiatives around Africa and globally -lessons learned </b> <br> <i>This session will focus on showcasing case studies of Universal Acceptance implementation around the world. </i><br><br> Panelists (TBC): <ul><li> Eng. Abdalmonen Galila, UA Ambassador <li> Yazid Akanho, ICANN <li> Mark W. Datysgeld, Governance Primer <li> Malick Alassane, ISOC Benin </ul> <br> [Registration details to follow](URL)| Moderator: Internet Society Uganda Chapter representative <br><br> Lead: Esther Patricia Akello | <ul><li>Recording <li>Report</ul>
