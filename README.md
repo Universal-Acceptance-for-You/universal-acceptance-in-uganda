@@ -78,7 +78,7 @@ This repository is maintained by a team of technologists, researchers, tech poli
 * [Mutegeki Cliff Agaba](https://mutegekicliff.com/) is a technology enthusiast with experience in computer networking. He is the Vice President of the Internet Society Uganda Chapter and formerly the Secretary for Gender and Disabilities, where he also served as the chapter training coordinator for the recently concluded Internet Society Chapter training program. He is also serving as a member of the Universal Acceptance Communications Working Group under the umbrella of ICANN.
 
 -------------
-TL;DR <br>Check out our [zine here](https://github.com/Universal-Acceptance-for-You/demistify-universal-acceptance/blob/main/zines/zine-universal-acceptance-1.pdf). 
+TL;DR <br>Check out our [zine here](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/zines/zine-universal-acceptance-1.pdf). 
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
