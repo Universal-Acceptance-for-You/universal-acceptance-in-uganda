@@ -53,17 +53,32 @@ We believe that Universal Acceptance implementation requires a multistakeholder 
    <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/access-plus-logo-2.png"
     width=80
   </img>
-</html><br><br>
+</html>
+   &nbsp;&nbsp;&nbsp;
+  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ISOC-UGANDA-Logo-Dark-Blue-RGB.png"
+    width=220
+  </img>
+</html>  
+  <br><br>
  
- **Partners and Sponsors**<br>
+ **Partners and Supporters**<br>
  <p><html>
  <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/MoICT-logo_bigger-1.png"
-    width=360
+    width=300
       </img>
   </html>
   &nbsp;&nbsp;&nbsp;
   <html>
-   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=150 </img>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/NITA-U-logo.png" width=100 </img>
+</html>
+   &nbsp;&nbsp;&nbsp;
+  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/ICANN_logo.svg.png" width=50 </img>
+</html>
+   &nbsp;&nbsp;&nbsp;
+  <html>
+   <img src="https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/resources/images/Mozilla-logo.png" width=100 </img>
 </html>
 
 ## About Us and Contacts
